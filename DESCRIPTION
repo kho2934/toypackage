@@ -1,9 +1,9 @@
-Package: project
-Title: What the Package Does (One Line, Title Case)
+Package: Toypackage_ClassExamples
+Title: Examples of convienience fuction
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Khoi", "Nguyen", , "nguyekho@lawrence.edu", role = c("aut", "cre"))
+Description: This is my pratice of how to create a package from professor Abhishek
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
