@@ -4,9 +4,7 @@
 #'
 #' @returns A numeric vector
 #' @export
-#'min_max_scale <- function(x) {
-...
-}
+#'
 #' @examples
 #' x <- 1:5
 #' min_max_scale(x)
