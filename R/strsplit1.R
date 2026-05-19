@@ -5,6 +5,7 @@
 #'
 #' @returns A character vector
 #' @export
+
 #'
 #' @examples
 #' x <- "alfa, bravo, charlie, delta"
