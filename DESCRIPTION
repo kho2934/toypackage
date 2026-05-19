@@ -1,9 +1,9 @@
-Package: Toypackage_ClassExamples
-Title: Examples of convienience fuction
+Package: ToypackageClassExamples
+Title: Examples of Convenience Functions
 Version: 0.0.0.9000
 Authors@R: 
     person("Khoi", "Nguyen", , "nguyekho@lawrence.edu", role = c("aut", "cre"))
-Description: This is my pratice of how to create a package from professor Abhishek
+Description: A practice R package created while learning package development from Professor Abhishek Chakraborty. The package includes small convenience functions, examples, documentation, and tests.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

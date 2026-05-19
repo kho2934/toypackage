@@ -52,3 +52,10 @@ project.Rcheck/
 project*.tar.gz
 project*.tgz
 
+Toypackage_ClassExamples.Rcheck/
+Toypackage_ClassExamples*.tar.gz
+Toypackage_ClassExamples*.tgz
+ToypackageClassExamples.Rcheck/
+ToypackageClassExamples*.tar.gz
+ToypackageClassExamples*.tgz
+docs

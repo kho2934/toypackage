@@ -4,3 +4,12 @@
 ^project.*\.tar\.gz$
 ^project.*\.tgz$
 ^LICENSE\.md$
+^Toypackage_ClassExamples\.Rcheck$
+^Toypackage_ClassExamples.*\.tar\.gz$
+^Toypackage_ClassExamples.*\.tgz$
+^ToypackageClassExamples\.Rcheck$
+^ToypackageClassExamples.*\.tar\.gz$
+^ToypackageClassExamples.*\.tgz$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
